@@ -141,7 +141,7 @@ def analyze_snapshot(svc_rows, dev_rows, label):
     d = {
         "label": label,
         "snapshot": snapshot.strftime("%Y-%m-%d %H:%M UTC"),
-        "snapshot_short": snapshot.strftime("%d %b %Y"),
+        "snapshot_short": snapshot.strftime("%d %b %H:%M"),
         "total_devices": len(dev_rows),
         "total_service": len(svc_rows),
     }
