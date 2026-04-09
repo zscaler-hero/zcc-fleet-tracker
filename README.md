@@ -31,6 +31,10 @@ During ZCC client upgrades, rollbacks, or fleet-wide incidents, security teams n
 - **Interactive HTML** — D3.js charts with tooltips, responsive dark-theme layout
 - **PDF export** — via headless Chrome for email sharing
 
+## Screenshot
+
+![ZCC Fleet Tracker Dashboard](screenshot.png)
+
 ## Quick Start
 
 ### 1. Export CSVs from ZCC Mobile Admin Portal
